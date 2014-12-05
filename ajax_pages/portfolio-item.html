@@ -1,0 +1,109 @@
+
+<div id="portfolio-gallery" class="scrollbar">
+
+	<a href="assets/img/portfolio/cover04.jpg"  title="TOURISM PARTNERSHIP OF NIAGARA" data-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.">aaaa</a>
+
+	<a href="assets/img/portfolio/cover04.jpg"  title="Banana" data-description="Test 2">bbb</a>
+
+
+</div>
+<div class="portfolio-container">
+	<div class="portfolio-main col-md-9">
+		
+	</div>
+	<div class="portfolio-side col-md-3">
+		<div class="ps-wrapper">
+			<div class="head">
+				<h3 class="title"><span>Sample Project</h3>
+				
+				<p style="color:#4d4d4f;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.</p>
+
+
+			</div>
+
+			<p style="padding: 10px 40px 0 40px; color:#4d4d4f; font-weight:300px;">
+			Our client list - <a href="javascript:showClients();"  id="buttonText" style="color:#4d4d4f; text-decoration:underline;">Show more</a> 
+			<br/>
+			<span style="font-size:18px;">Tourism organization</span></p>
+			<div class="title-divider-red-project-detail"></div>
+
+			<div class="comments-wrapper" style="display:none;" id="clientList">
+				<div class="inner-wrapper scrollbar">
+					<div class="portfolio-comments-form">
+								
+				
+								<strong>TOURISM ORGANIZATIONS</strong>
+
+								<br>
+									RTO1 - Southwestern Ontario Tourism <br>
+									RTO2 - The Tourism partnership of Niagara<br>
+									RTO3 - Hamilton Halton Brant Regional Tourism<br>
+									Durham Tourism<br>
+									Tourism Hamilton<br>
+									Tourism Brantford<br>
+									Tourism Niagara<br>
+									Niagara Falls Tourism<br>
+									Twenty Valley Tourism Association<br>
+									Festivals & Events Niagara<br>
+									Wine Council of Ontario<br>
+									Ontario Tourism Marketing Partnership (OTMPC)<br>
+									Southern Ontario Tourism Organization<br>
+									Festivals and Events Ontario<br>
+									Northumberland Tourism<br>
+									Industry Canada/FedNor<br>
+									Northern Ontario Native Tourism Association<br>
+									Rainbow Country Tourism Association<br>
+									Algoma Kinawabi Tourism Association<br>
+									Ontario’s Near North Tourism Association<br>
+									North of Superior Tourism Association<br>
+									Hills of Headwaters Tourism Association<br>
+					</div>
+					<div>
+						<br><br><br><br><br><br>
+					</div>
+				</div>
+					
+			</div>
+			
+		</div>	
+	</div>
+</div>
+<!-- Localized -->
+<script>
+
+
+
+	function showClients(){
+
+		$('#clientList').toggle( "slow", function() {
+			if (!isTouchDevice){
+				$('.scrollbar').perfectScrollbar('update');
+				perfectScroll.init();
+			}
+
+
+			if ($("#clientList").is(":visible") == true){	    	
+	    		$('#buttonText').html('Show less');	    
+		    }else{
+		    	$('#buttonText').html('Show more');	
+		    }
+		});
+
+
+		
+	}
+
+	$(window).resize(function() {
+		var pageWidth = $(window).width(); 
+
+	    if ($("#clientList").is(":visible") == true){
+	    	$('#clientList').hide(function(){
+	    		 $('#buttonText').html('More clients in this category');
+	    	});
+	    }
+perfectScroll.init();
+	});
+
+
+
+</script>
