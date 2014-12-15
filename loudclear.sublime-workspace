@@ -1,0 +1,584 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"text-transform"
+			],
+			[
+				"Conter",
+				"counterparty"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"he",
+				"href"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"o",
+				"onclick"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"paddi",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/loud+clear/loudclear"
+	],
+	"file_history":
+	[
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/mirko.sublime-project",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/progetti-residential.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/css/style.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/css/fontello.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/index.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/owlcarousel/owl.theme.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/owlcarousel/owl.carousel.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/prodotti.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/css/test.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/css/test",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/sequence/sequencejs-theme.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/css/animation.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/contatti.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/jquery.colorbox.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/config.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/plugins.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/magnific-popup/jquery.magnific-popup.min.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/custom.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/jquery.colorbox-min.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/jquery.gmap.min.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/jquery.mixitup.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/jquery.modernizr.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/jquery.nicescroll.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/js/jquery.resizegrid.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/progetto-template.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/progetti-building-solution.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/index 2.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/azienda.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/404.html",
+		"/Users/chiararebeccazanotta/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/development/stylesheets/style.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/development/stylesheets/navmenu.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/development/stylesheets/main.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/development/stylesheets/onepage-scroll.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/development/stylesheets/main-bg.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/development/index.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/development/momenti.html",
+		"/Users/chiararebeccazanotta/Desktop/.htaccess",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/stylesheets/main.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/stylesheets/style.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/index.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/eblast/RTO3/04-12-2014/index.html",
+		"/Users/chiararebeccazanotta/Desktop/chiara-zanotta/README.md",
+		"/Users/chiararebeccazanotta/Desktop/frontend/widgets/transactions/index.html",
+		"/Users/chiararebeccazanotta/Documents/app/frontend/gulpfile.js",
+		"/Users/chiararebeccazanotta/Documents/app/frontend/node_modules/browserify/node_modules/glob/glob.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/stylesheets/intro01.css",
+		"/Users/chiararebeccazanotta/Documents/app/frontend/widgets/transactions/js/underscore.js",
+		"/Users/chiararebeccazanotta/Desktop/Frontend assignement R&D/README.md",
+		"/Users/chiararebeccazanotta/Documents/app/frontend/widgets/transactions/data/transactions.json",
+		"/Users/chiararebeccazanotta/Documents/DOCUMENTI/booking.com/chiara-zanotta/js.js",
+		"/Users/chiararebeccazanotta/Documents/app/frontend/widgets/transactions/index.html",
+		"/Users/chiararebeccazanotta/Documents/app/frontend/public/index.html",
+		"/Users/chiararebeccazanotta/Documents/DOCUMENTI/booking.com/chiara-zanotta/index.html",
+		"/Users/chiararebeccazanotta/Documents/app/frontend/server.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/javascripts/custom/navmenu-init.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/javascripts/custom/main.js",
+		"/Users/chiararebeccazanotta/Desktop/style.css",
+		"/Users/chiararebeccazanotta/Desktop/front-page.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/loud+clear/index.html",
+		"/Users/chiararebeccazanotta/Desktop/biografia.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/attico-milano.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/artigianeria.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/cambre.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/archiform.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/about.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/contact.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/assets/themeforest-8923263-eight-portfolio-for-photographers-creatives/SITE/photography/album-coverflow.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/less/color.less",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/stylesheets/navmenu.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/partials/general-modules.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/layouts/general-template.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/partials/partials.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/stylesheets/main-bg.css",
+		"/Users/chiararebeccazanotta/Downloads/themeforest-6688170-vida-responsive-creative-photography-template/Template/corporate.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/momenti.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/javascripts/custom/isotope-init.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/javascripts/custom/hamburger-init.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/javascripts/custom/featured-init.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/mirko/SITE/agency/javascripts/custom/form-validation.js",
+		"/Users/chiararebeccazanotta/Desktop/index.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/css/colorbox.css",
+		"/Users/chiararebeccazanotta/Desktop/fullPage.js-master/jquery.fullPage.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/partials/general.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/eblast/cave/14-11-2014/development/index.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/CSM/development/css/layout.css",
+		"/Users/chiararebeccazanotta/Desktop/download (1)",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/interno/post-1/index.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/partials/form.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/interno/stylesheets/layout.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/interno/demo/demo.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/layouts/default.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/static/index.html",
+		"/Users/chiararebeccazanotta/Desktop/lc/index.html",
+		"/Users/chiararebeccazanotta/Desktop/agility-html.sevenspark.com/post-1/index.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/layouts/php/examples/addOrUpdateContact.php",
+		"/Users/chiararebeccazanotta/Desktop/php-sdk-development 2/examples/addOrUpdateContact.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/plugins/example.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/plugins/categories.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/img/php/examples/test.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/img/php-sdk-development 2/examples/test.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/img/test.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/layouts/test.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/partials/test.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/partials/php/src/Ctct/autoload.php",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/views/partials/php/examples/addOrUpdateContact.php",
+		"/Users/chiararebeccazanotta/Desktop/test.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/system/cms/config/database.php",
+		"/Users/chiararebeccazanotta/Desktop/lc/assets/js/custom.js",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/ortodeinoci/pwd",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/ortodeinoci/themeforest-8046947-booster-responsive-coming-soon-template 2/video-background/index.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/CHIARA/ortodeinoci/themeforest-8046947-booster-responsive-coming-soon-template 2/single-image/index.html",
+		"/Volumes/My Passport/_WORKS/LOUD+CLEAR/dms.loudweb.ca/addons/shared_addons/themes/dms/views/layouts/home.html",
+		"/Users/chiararebeccazanotta/Desktop/lc/assets/js/jquery.fullPage.js",
+		"/Users/chiararebeccazanotta/Desktop/lc/assets/js/vendors/blueimp-gallery.min.js",
+		"/Users/chiararebeccazanotta/Desktop/lc/ajax_pages/portfolio-item.html",
+		"/Users/chiararebeccazanotta/Desktop/lc/assets/css/vendors/blueimp-gallery.css",
+		"/Users/chiararebeccazanotta/Desktop/lc/assets/css/skins/skin3/style.css",
+		"/Users/chiararebeccazanotta/Desktop/lc/assets/css/style.css",
+		"/Users/chiararebeccazanotta/Desktop/custom.js",
+		"/Users/chiararebeccazanotta/Desktop/jquery.fullPage.js",
+		"/Users/chiararebeccazanotta/Desktop/untitled folder/.htpasswd",
+		"/Users/chiararebeccazanotta/Desktop/new.html",
+		"/Users/chiararebeccazanotta/Desktop/untitled folder/.htaccess",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/static/css/layout.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/css/home/layout.css",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/index.html",
+		"/Users/chiararebeccazanotta/Documents/works/WEBSITE/LOUD+CLEAR/icewine/development/addons/shared_addons/themes/icewine/css/home/style.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"touch",
+			"header",
+			"    <header id=\"header\">\n",
+			"Header",
+			"header",
+			"HEADER",
+			"header",
+			"class",
+			"marta bissichini",
+			"Matteo Galbusera",
+			"matteo galbusera",
+			"   C",
+			"Collaborazione",
+			"collaborazione",
+			"coll.",
+			"iseo",
+			"Iseo Carezza Lario",
+			"oetraviva",
+			"Petraviva",
+			"/Petraviva",
+			"Ecobag",
+			"ecobag",
+			"Ecobag",
+			"ecobag",
+			"Ecobag",
+			"ecobag",
+			"Ecobag",
+			"ecobag",
+			"Ecobag",
+			"ecobag",
+			"Ecobag",
+			"Ecobag-bl",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"maginficat",
+			"logiudice",
+			"Loft",
+			"/Loft",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"magnificat",
+			"Magnificat",
+			"/Magnificat",
+			"Janeke",
+			"janeke",
+			"Janeke",
+			"janeke",
+			"Janeke",
+			"janeke",
+			"Janeke",
+			"janeke",
+			"Janeke",
+			"janeke",
+			"Janeke",
+			"janeke",
+			"Janeke",
+			"janeke",
+			"Janeke",
+			"janeke",
+			"Janeke",
+			"janeke",
+			"Janeke",
+			"/Janeke",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"pizzamiglio",
+			"Pizzamiglio",
+			"/Pizzamiglio",
+			"/P",
+			"/p",
+			"/P",
+			"Favola",
+			"favola",
+			"Favola",
+			"favola",
+			"Favola",
+			"favola",
+			"Favola",
+			"favola",
+			"Favola",
+			"favola",
+			"Favola",
+			"/Favola/",
+			"archiform",
+			"Archiform"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"project": "loudclear.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"owl",
+				"js/owlcarousel/owl.carousel.css"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"g",
+				"frontend/gulpfile.js"
+			],
+			[
+				"",
+				"~/Desktop/lc/website/loudclear/vida/ok-corporate.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"allitems",
+				"allItems"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

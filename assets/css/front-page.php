@@ -448,13 +448,13 @@
 									  		</div>
                                             <!-- GO DOWN -->
 														<div class="navigation-link navbtm">
-															<a href="#secondPage" class="navigation-link"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-down.png"></a> 
+															<a href="#onyourmark" class="navigation-link"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-down.png"></a> 
 											        	</div>
                                         </div>
                                         
                                         
                                         <!-- ################################# SECTION 2 ################################# -->                        
-                                        <div class="section" id="section2" data-anchor="secondPage" style= " background: url('<?php bloginfo('template_url'); ?>/assets/img/markbackground.jpg') no-repeat scroll center center / cover transparent; overflow: hidden;  position: relative;" >
+                                        <div class="section" id="section2" data-anchor="onyourmark" style= " background: url('<?php bloginfo('template_url'); ?>/assets/img/markbackground.jpg') no-repeat scroll center center / cover transparent; overflow: hidden;  position: relative;" >
                                         	<!-- GO UP -->
                                         	<div class="navigation-link navtops">
                                         		<a href="#services"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-up.png"></a>
@@ -504,7 +504,7 @@
 									  			</div> 
                                                  <!-- GO DOWN -->
 													        <div class="navigation-link navbtm">
-																<a href="#thirdPage"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-down.png"></a> 
+																<a href="#getset"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-down.png"></a> 
 															</div> 
                                         </div>
                                         
@@ -512,10 +512,10 @@
                                         
                                         
                                         <!-- ################################# SECTION 3 ################################# -->                        
-                                        <div class="section" id="section3" data-anchor="thirdPage" style= " background: url('<?php bloginfo('template_url'); ?>/assets/img/setbackground.jpg') no-repeat scroll center center / cover transparent; overflow: hidden;  position: relative;">
+                                        <div class="section" id="section3" data-anchor="getset" style= " background: url('<?php bloginfo('template_url'); ?>/assets/img/setbackground.jpg') no-repeat scroll center center / cover transparent; overflow: hidden;  position: relative;">
                                         	<!-- GO UP -->
                                         	<div class="navigation-link navtops">
-                                        		<a href="#secondPage"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-up.png"></a>
+                                        		<a href="#onyourmark"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-up.png"></a>
                                         	</div>
 
                                         	<div class="mycontainer servicescontainer">
@@ -555,15 +555,15 @@
 									  			</div>  
                                                 <!-- GO DOWN -->
 											        	<div class="navigation-link navbtm">
-															<a href="#fourthPage" class="navigation-link"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-down.png"></a>
+															<a href="#go" class="navigation-link"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-down.png"></a>
 														 </div> 
                                         </div>
 
 									  	<!-- ################################# SECTION 4 ################################# -->                        
-                                        <div class="section" id="section4" data-anchor="fourthPage" style= " background: url('<?php bloginfo('template_url'); ?>/assets/img/gobackground.jpg') no-repeat scroll center center / cover transparent; overflow: hidden;  position: relative;">
+                                        <div class="section" id="section4" data-anchor="go" style= " background: url('<?php bloginfo('template_url'); ?>/assets/img/gobackground.jpg') no-repeat scroll center center / cover transparent; overflow: hidden;  position: relative;">
                                         	<!-- GO UP -->
                                         	<div class="navigation-link navtops">
-                                        		<a href="#thirdPage"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-up.png"></a>
+                                        		<a href="#getset"><img src="<?php bloginfo('template_url'); ?>/assets/img/arrows-up.png"></a>
                                         	</div>
                                         	<div class="mycontainer servicescontainer">
 												<div class="inner">
@@ -974,7 +974,7 @@ font-weight: bold; "><?php the_field('second_title', 'option'); ?></span></h2>
 			    	if(hash == "hello"){
 		  				$('#taskbar').hide();
 				  	}
-				  	else if(hash == "secondPage" || hash == "thirdPage" || hash == "fourthPage"){
+				  	else if(hash == "onyourmark" || hash == "getset" || hash == "go"){
 
 				  		layoutSwiper.swiperit.swipeTo('6')
 				  	}
@@ -1008,7 +1008,7 @@ font-weight: bold; "><?php the_field('second_title', 'option'); ?></span></h2>
 		if (!isTouchDevice){
 			$('#fullpage').fullpage({
 				menu: false,
-				anchors: ['services', 'secondPage', 'thirdPage','fourthPage'],
+				anchors: ['services', 'onyourmark', 'getset','go'],
 				navigation: false,
 				sectionsColor: ['#5e5e5e', '#efbf0f', '#f47b2d', '#60aedd'],
 				scrollOverflow: true,
@@ -1018,7 +1018,7 @@ font-weight: bold; "><?php the_field('second_title', 'option'); ?></span></h2>
 		 }else{
 		 	$('#fullpage').fullpage({
 				menu: false,
-				anchors: ['', 'secondPage', 'thirdPage','fourthPage'],
+				anchors: ['', 'onyourmark', 'getset','go'],
 				navigation: false,
 				sectionsColor: ['#5e5e5e', '#efbf0f', '#f47b2d', '#60aedd'],
 				scrollOverflow: true,
